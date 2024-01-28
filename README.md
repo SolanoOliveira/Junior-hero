@@ -1,6 +1,6 @@
 # Junior hero
 
-Este é o repositório para o projeto Junior hero. Este projeto consiste em uma aplicação dividida em duas partes principais: o backend e o frontend.
+Este é o repositório para o projeto Junior hero. Este projeto consiste em uma aplicação dividida em duas partes principais: o backend e o frontend. Ele ajude em administrar suas submissões de vaga dev.
 
 ## Como Iniciar
 
